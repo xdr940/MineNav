@@ -1,2 +1,2 @@
 # MineNav
-datasets for MineNav
+A MineCraft datasets 
