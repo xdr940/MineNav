@@ -1,0 +1,71 @@
+{
+    "fixtures": [
+        {
+            "points": [
+                {
+                    "point": {
+                        "x": 50.0,
+                        "y": 200.0,
+                        "z": -150.0
+                    },
+                    "angle": {
+                        "yaw": 180.0,
+                        "pitch": 80.0,
+                        "roll": 0.0,
+                        "fov": 70.0
+                    }
+                },
+                {
+                    "point": {
+                        "x": 50.0,
+                        "y": 200.0,
+                        "z": -150.0
+                    },
+                    "angle": {
+                        "yaw": 180.0,
+                        "pitch": 85.0,
+                        "roll": 0.0,
+                        "fov": 70.0
+                    }
+                },
+                {
+                    "point": {
+                        "x": 50.0,
+                        "y": 200.0,
+                        "z": -150.0
+                    },
+                    "angle": {
+                        "yaw": 180.0,
+                        "pitch": 90.0,
+                        "roll": 0.0,
+                        "fov": 70.0
+                    }
+                }
+            ],
+            "useSpeed": false,
+            "speed": {
+                "keyframes": [
+                    {
+                        "tick": 0,
+                        "value": 1.0,
+                        "interp": "LINEAR",
+                        "easing": "IN",
+                        "rx": 5.0,
+                        "ry": 0.0,
+                        "lx": 5.0,
+                        "ly": 0.0
+                    }
+                ]
+            },
+            "duration": 30,
+            "name": "",
+            "color": 0,
+            "modifiers": [],
+            "type": "path",
+            "interpolation": "hermite",
+            "interpolationAngle": "hermite"
+        }
+    ],
+    "modifiers": [],
+    "curves": {}
+}
