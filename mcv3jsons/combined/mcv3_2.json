@@ -135,7 +135,7 @@
           }
         ]
       },
-      "duration": 100,
+      "duration": 400,
       "name": "",
       "color": 0,
       "modifiers": [],
@@ -278,7 +278,7 @@
           }
         ]
       },
-      "duration": 100,
+      "duration": 400,
       "name": "",
       "color": 0,
       "modifiers": [],
@@ -421,7 +421,7 @@
           }
         ]
       },
-      "duration": 100,
+      "duration": 400,
       "name": "",
       "color": 0,
       "modifiers": [],
@@ -564,7 +564,7 @@
           }
         ]
       },
-      "duration": 100,
+      "duration": 400,
       "name": "",
       "color": 0,
       "modifiers": [],
@@ -707,7 +707,7 @@
           }
         ]
       },
-      "duration": 100,
+      "duration": 400,
       "name": "",
       "color": 0,
       "modifiers": [],
